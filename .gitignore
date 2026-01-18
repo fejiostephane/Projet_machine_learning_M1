@@ -1,4 +1,5 @@
 myvenv/
+.venv/
 CE.txt
 CP.txt
 description.txt
